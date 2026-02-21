@@ -46,7 +46,7 @@
     "humanize-string": "^2.1.0",
     "load-cfg": "^2.4.0",
     "lodash": "^4.17.14",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.2.1",
     "open": "^7.0.3",
     "ora": "^3.4.0",
     "react-docgen": "^4.1.1",
